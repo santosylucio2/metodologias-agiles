@@ -1,3 +1,4 @@
+## Lucio Antonio Araoz Frontera
 # metodologias-agiles
 
 ![image](https://github.com/user-attachments/assets/680ae288-e793-471c-a438-4f1767802171)
